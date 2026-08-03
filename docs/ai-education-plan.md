@@ -157,7 +157,9 @@
 
 ## 부록. 사용 가능한 제작 도구 확인 결과
 
-- **Superpowers 스킬: 이 환경에 설치되어 있지 않음** (스킬 목록/플러그인 카탈로그 검색 결과 없음)
+- **Superpowers: 설치 완료** — claude.ai 스킬 카탈로그가 아니라 커뮤니티 마켓플레이스(`obra/superpowers-marketplace`)에서 제공됩니다. `ponytail`도 함께 설치했습니다.
+  - 두 플러그인은 `.claude/settings.json`에 고정해 두어, 이 저장소에서 여는 세션이 자동으로 가져갑니다.
+  - 아웃라인 단계에 `superpowers:brainstorming`, `superpowers:writing-plans`를 사용합니다.
 - 실제 사용할 스킬
   - `artifact-design` — **웹 발표자료 (산출물 A, 주 산출물)**
   - `docx` — 발표자 스크립트 (산출물 B)
